@@ -1,5 +1,3 @@
-TODO Your pseudocode goes here!
-
 1. Start with the first book in the pile
 2. Compare the current book’s title with the next book’s title, starting from the first character
 3. If the first characters are the same, compare the second characters, and continue this process until a difference is found or one title ends
